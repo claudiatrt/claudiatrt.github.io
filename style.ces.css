@@ -1,0 +1,21 @@
+h2{
+	color: #FF0000;
+}
+* {
+	text-align: center;
+}
+background-image{
+	url('image.png')
+}
+h1{
+	font-style: italic;
+	color:#50bd1e;
+	font-family:Georgia
+}
+background-image{
+	user-select: ('image.png')
+}
+body{
+	background: url("https://visegradpost.com/fr/fond-ecran-informatique-divers-033/")no-repeat;
+	background-size: 5000px
+}
